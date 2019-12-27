@@ -2,7 +2,7 @@
 Version=1.0
 Type=Application
 Name=Hola Mundo (capitulo 2 - main)
-Exec=/bin/bash -c "cd ${HOME}/apps/02-HolaMundo/ && chmod 777 main.py && python main.py"
+Exec=/bin/bash -c "cd ${HOME}/apps/02-HolaMundo/ && python main.py"
 # FIXME: Don't hardcode Path?
 Icon=/home/jovyan/apps/04-IconoVentana/imgs/pybofractal.png
 Path=/home/jovyan/Desktop

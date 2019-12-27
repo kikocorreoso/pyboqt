@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Hola Mundo (capitulo 2 - main)
-Exec=/bin/bash -c "cd ${HOME}/apps/02-HolaMundo/ && python main.py"
+Name=Icono (capitulo 4 - main01)
+Exec=/bin/bash -c "cd ${HOME}/apps/04-IconoVentana/ && python main01.py"
 # FIXME: Don't hardcode Path?
 Icon=/home/jovyan/imgs/Python.svg.png
 Path=/home/jovyan/Desktop

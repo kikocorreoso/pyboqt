@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Hola Mundo (capitulo 2)
+Exec=/bin/bash -c "exec ${HOME}/apps/02-HolaMundo/main.py"
+# FIXME: Don't hardcode Path?
+Icon=/home/jovyan/imgs/Python.svg.png
+Path=/home/jovyan/Desktop

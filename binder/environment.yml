@@ -1,0 +1,16 @@
+channels:
+- conda-forge
+- manics # Used by jupyter-desktop-server
+dependencies:
+# We can not refer to an environment.yml file from another
+# So to get performant launches on mybinder.org, we have copied
+# the contents of this requirements/conda.txt to this file.yml.
+# Please *DO NOT* make changes directly just to here - make changes
+# to requirements/conda.txt, and copy it here.
+- pyside2
+- qtpy
+
+# Required for jupyter-desktop-server
+- websockify
+- pip:
+    - jupyter-desktop-server

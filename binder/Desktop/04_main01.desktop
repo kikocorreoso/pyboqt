@@ -2,7 +2,7 @@
 Version=1.0
 Type=Application
 Name=Icono (capitulo 4 - main01)
-Exec=/bin/bash -c "cd ${HOME}/apps/04-IconoVentana/ && python main01.py"
+Exec=/bin/bash -c "cd ${HOME}/apps/04-IconoVentana/ && chmod 777 main01.py && python main01.py"
 # FIXME: Don't hardcode Path?
-Icon=/home/jovyan/imgs/Python.svg.png
+Icon=/home/jovyan/apps/04-IconoVentana/imgs/pybofractal.png
 Path=/home/jovyan/Desktop

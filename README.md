@@ -17,3 +17,5 @@ lo permita.
 * Capítulo 4: Icono de la ventana (https://pybonacci.org/2019/12/26/curso-de-creacion-de-guis-con-qt5-y-python-capitulo-04-icono-de-la-ventana/)
 
 * Capítulo 5: Ventanas, principales diferencias (https://pybonacci.org/2020/01/31/curso-de-creacion-de-guis-con-qt-capitulo-05-ventanas-principales-diferencias/)
+
+* Capítulo 6: Splash Screen (https://pybonacci.org/2020/02/26/curso-de-creacion-de-guis-con-qt-capitulo-06-splash-screen/)

@@ -9,6 +9,7 @@ dependencies:
 # to requirements/conda.txt, and copy it here.
 - pyside2
 - qtpy
+- qtawesome
 
 # Required for jupyter-desktop-server
 - websockify

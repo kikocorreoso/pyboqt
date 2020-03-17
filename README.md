@@ -19,3 +19,5 @@ lo permita.
 * Capítulo 5: Ventanas, principales diferencias (https://pybonacci.org/2020/01/31/curso-de-creacion-de-guis-con-qt-capitulo-05-ventanas-principales-diferencias/)
 
 * Capítulo 6: Splash Screen (https://pybonacci.org/2020/02/26/curso-de-creacion-de-guis-con-qt-capitulo-06-splash-screen/)
+
+* Capítulo 6: Menú principal. Introducción (https://pybonacci.org/2020/03/18/curso-de-creacion-de-guis-con-qt-capitulo-07-menu/)

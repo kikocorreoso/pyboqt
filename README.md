@@ -20,4 +20,6 @@ lo permita.
 
 * Capítulo 6: Splash Screen (https://pybonacci.org/2020/02/26/curso-de-creacion-de-guis-con-qt-capitulo-06-splash-screen/)
 
-* Capítulo 6: Menú principal. Introducción (https://pybonacci.org/2020/03/18/curso-de-creacion-de-guis-con-qt-capitulo-07-menu/)
+* Capítulo 7: Menú principal. Introducción (https://pybonacci.org/2020/03/18/curso-de-creacion-de-guis-con-qt-capitulo-07-menu/)
+
+* Capítulo 8: Mejorando lo visto (https://pybonacci.org/2020/03/26/curso-de-creacion-de-guis-con-qt-capitulo-08-mejorando-lo-visto/)

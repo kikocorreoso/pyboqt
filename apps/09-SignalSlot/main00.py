@@ -3,7 +3,7 @@ os.environ['QT_API'] = 'pyside2'
 import sys
 
 from qtpy.QtWidgets import QApplication, QPushButton
-from PySide2.QtCore import Slot
+from qtpy.QtCore import Slot
 
 @Slot()
 def say_hello():

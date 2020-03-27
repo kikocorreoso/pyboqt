@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Icono (capitulo 9 - main02)
+Exec=/bin/bash -c "cd ${HOME}/apps/09-SignalSlot/ && python main02.py"
+# FIXME: Don't hardcode Path?
+Icon=/home/jovyan/apps/09-SignalSlot/imgs/pybofractal.png
+Path=/home/jovyan/Desktop

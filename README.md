@@ -25,3 +25,5 @@ lo permita.
 * Capítulo 8: Mejorando lo visto (https://pybonacci.org/2020/03/26/curso-de-creacion-de-guis-con-qt-capitulo-08-mejorando-lo-visto/)
 
 * Capítulo 9: Signals y Slots (https://pybonacci.org/2020/03/27/curso-de-creacion-de-guis-con-qt-capitulo-09-signals-y-slots/)
+
+* Capítulo 10: Introducción a Designer (https://pybonacci.org/2020/04/14/curso-de-creacion-de-guis-con-qt-capitulo-10-introduccion-a-designer/)

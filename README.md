@@ -29,3 +29,5 @@ lo permita.
 * Capítulo 10: Introducción a Designer (https://pybonacci.org/2020/04/14/curso-de-creacion-de-guis-con-qt-capitulo-10-introduccion-a-designer/)
 
 * Capítulo 11: Widgets en Designer (I) (https://pybonacci.org/2020/05/01/curso-de-creacion-de-guis-con-qt-capitulo-11-widgets-en-designer-i/)
+
+* Capítulo 12: Widgets en Designer (II) (https://pybonacci.org/2020/05/02/curso-de-creacion-de-guis-con-qt-capitulo-12:-widgets-en-designer-(ii)/)
